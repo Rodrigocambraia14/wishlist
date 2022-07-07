@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "wishlist",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
